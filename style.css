@@ -23,6 +23,7 @@ header{
 header h2{
     font-size: 48px;
     color: #0D1321;
+    margin-bottom: 8px;
 }
 header p{
     font-size: 16px;
@@ -43,6 +44,7 @@ header button a{
 }
 header button{
     margin-bottom: 50px;
+    margin-top: 25px;
 
 }
 header img{
@@ -88,13 +90,16 @@ header img{
     font-size: 20px;
     font-weight: 600px;
 }
-.dev-1 button{
+.dev-1-1 button{
     background-color: white;
     padding: 12px 20px;
     
     margin-left: 48px;
     margin-bottom: 32px;
 
+}
+.dev-1-1 button a{
+    margin-left: -37px;
 }
 .dev-1-1 h5{
     font-size: 24px;
@@ -159,6 +164,9 @@ header img{
 }
 .dev-2-1{
     margin-left: -90px;
+}
+.dev-2-1 button a{
+    margin-left: -37px;
 }
 /* dev-3 */
 #chovi{
@@ -272,7 +280,7 @@ section a{
 }
 /* support */
 .support{
-    background-image: url('assets/handshake.jpg');
+    background-image: linear-gradient(to top,rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('assets/handshake.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -292,14 +300,13 @@ section a{
     font-family: "Azeret Mono", monospace;
     padding-left: 20px;
 }
-#submit{
+.btn-sub{
     height: 57px;
     width: 120px;
     font-size: 20px;
     font-weight:bold;
     border-radius: 8px;
     border: none;
-    margin-bottom: 20px;
 }
 .f-p{
     color: #ffffff;
