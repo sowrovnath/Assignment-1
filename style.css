@@ -207,3 +207,16 @@ header img{
     padding-bottom: 32px;
 
 }
+/* My inspiration */
+.video{
+    justify-content: center;
+    display: flex;
+    margin-top: 48px;
+}
+.v{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    padding: 25px;
+    border-radius: 16px;
+    width:1076px; 
+    height:550px;
+}
