@@ -220,3 +220,53 @@ header img{
     width:1076px; 
     height:550px;
 }
+/* my target */
+.items{
+    display: flex;
+    padding-bottom: 40px;
+}
+section img{
+    padding: 40px 0 24px 40px;
+}
+section h2{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+section p{
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    padding-right: 40px;
+    color: #0D1321;
+
+}
+section a{
+    font-size:16px ;
+    font-weight: bold;
+    padding-left: 40px ;
+    color: #0D1321;
+}
+.item1{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    margin-right: 20px;
+    padding-bottom: 40px;
+}
+.item2{
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    margin-right: 20px;
+    padding-bottom: 40px;
+
+}
+.item3{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    margin-right: 20px;
+    padding-bottom: 40px;
+
+}
